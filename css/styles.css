@@ -89,7 +89,7 @@ button {
   background-color: rgb(243, 2, 179);
   border-radius: 5px;
   color: rgb(9, 0, 41);
-  border-color: color: rgb(9, 0, 41);
+  border-color: color rgb(9, 0, 41);
 }
 @media screen and (max-width: 768px) {
  ul {
